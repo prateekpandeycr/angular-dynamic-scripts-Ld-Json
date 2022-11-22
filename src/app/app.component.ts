@@ -19,7 +19,7 @@ export class AppComponent {
     script.text = `
         {
             "@context": "https://schema.org"
-            /* your schema.org microdata goes here */
+            
         }
     `;
 
